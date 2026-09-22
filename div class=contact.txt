@@ -1,0 +1,22 @@
+<div class="contact">
+          <h3
+            style="text-decoration: underline; text-decoration-color: #6096ba"
+          >
+            Contact
+          </h3>
+          <h5>Phone number: 095-530-7115</h5>
+          <h5>Gmail: me.pawida@gmail.com</h5>
+          <h5>
+            Facebook:<a href="https://www.facebook.com/share/1AYdag7xJm/">
+              Pavida Puangrodd</a
+            >
+          </h5>
+          <h5>
+            Instagram:<a
+              href="https://www.instagram.com/sxveurt34rs?igsh=MWM4NnpyZWdtZnpwcA%3D%3D&utm_source=qr"
+            >
+              sxveurt34rs
+            </a>
+          </h5>
+          <h5>Line: pavida.me.</h5>
+        </div>
